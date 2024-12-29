@@ -2,9 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Welcome to the Norfolk Academy Robotics Website! This serves as a space where we can share our plans, experiences, and a little bit about the team in general.
 
-[Link to another page](./another-page.html).
+[Meet the Team](./meet-the-team.html).
 
 There should be whitespace between paragraphs.
 

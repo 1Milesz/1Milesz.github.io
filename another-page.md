@@ -3,7 +3,7 @@ layout: default
 title: Meet the Team
 ---
 
-## Welcome to another page
+## Meet the Team
 
 _yay_
 
